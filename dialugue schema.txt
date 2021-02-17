@@ -1,0 +1,7 @@
+[hello|hi|hey|what's up] {*} > hello my friend
+I [like|love|enjoy|adore] {w} > Oh, I like {w} as well
+Tell me about yourself > I'm but a mere human
+Tell me about {w} > I don't know much about it but take a look here https://duckduckgo.com/?q={w}&t=h_&ia=web
+[how are you|how do you feel|is everything all right]? > I'm good, and you?
+I'm [good|fine|great] {*} > nice to hear!
+[I'm|I feel] [sad|terrible|awful] {*} > :(
